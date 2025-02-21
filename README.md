@@ -1,27 +1,20 @@
 # Rockpaper
-ROCKPAPERSCISSORS GAME
-Rock Paper Scissors Game
-This is a simple Rock, Paper, Scissors game implemented in Python. The user selects an option (0 for Rock, 1 for Paper, 2 for Scissors), and the computer randomly picks one as well. The game then determines the winner based on the standard rules:
+# ROCK PAPER AND SCISSORS 
+# 🪨📄✂️ Rock Paper Scissors - Python Game
 
-Rock beats Scissors 🏆
-Scissors beat Paper ✂️
-Paper beats Rock 📜
-✨ Features:
-Interactive user input for choice selection.
-Randomized computer choice for fairness.
-ASCII art representation of each move.
-Win/Loss/Draw detection with fun messages.
-🚀 How to Play:
-Run the script:
-sh
-Copy
-Edit
-python ROCKPAPER.py
-Enter a number:
-0 for Rock 🪨
-1 for Paper 📄
-2 for Scissors ✂️
-The computer will also choose, and the result will be displayed!
-📌 Note:
-Ensure you enter a valid number (0, 1, or 2); otherwise, an error message will appear.
-Have fun and challenge yourself against the computer!
+This is a simple **Rock, Paper, Scissors** game written in Python. It allows the user to play against the computer, which makes a random selection. The game includes ASCII art representations of each choice and fun messages to enhance the experience.
+
+---
+
+## 📌 Features
+- 🎲 **Randomized Computer Choice** – Play against the AI!
+- 🖼️ **ASCII Art** – Visual representation of Rock, Paper, and Scissors.
+- 🎯 **Win/Loss/Draw Logic** – Determines the winner based on standard rules.
+- 🛠️ **Beginner-Friendly** – Simple and easy to modify.
+
+---
+
+## 🚀 How to Play
+1. **Run the script** using Python:
+   ```sh
+   python ROCKPAPER.py
